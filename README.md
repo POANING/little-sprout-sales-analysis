@@ -17,3 +17,7 @@ This analysis aims to answer the following questions:
 - How did Retail and E-Commerce channels perform differently?
 - What caused the significant increase in E-Commerce revenue in March?
 - Was the change in revenue driven by transaction volume, units sold, pricing, or product mix?
+
+## Dashboard Preview
+
+![Little Sprout Sales Performance Dashboard](executive-overview.png)
