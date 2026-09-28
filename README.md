@@ -20,4 +20,4 @@ This analysis aims to answer the following questions:
 
 ## Dashboard Preview
 
-![Little Sprout Sales Performance Dashboard](executive-overview.png)
+![Little Sprout Sales Performance Dashboard](executive_overview.png)
