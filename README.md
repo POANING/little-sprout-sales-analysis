@@ -50,3 +50,20 @@ To understand the drivers behind this growth, I used SQL to investigate transact
 The March E-Commerce revenue increase was primarily **volume-driven**. Growth came from both a higher number of transactions and more units purchased per transaction, resulting in units sold more than doubling.
 
 However, revenue per unit declined, coinciding with higher average discounts and a product mix weighted toward lower-priced products. This partially offset the impact of the strong increase in sales volume.
+
+## Tools & Skills
+
+- Power BI
+- Power Query
+- DAX
+- SQL Server (T-SQL)
+- Data Cleaning
+- Data Analysis
+- Root-Cause Analysis
+- Data Visualization
+
+## Project Files
+
+- `Sales_Data.pbix` – Interactive Power BI dashboard
+- `sql/march_ecommerce_root_cause.sql` – SQL analysis investigating March E-Commerce revenue growth
+- `executive_overview.png` – Dashboard preview
